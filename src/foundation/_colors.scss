@@ -1,0 +1,13 @@
+$background-primary-color: var(
+  --dse-background-primary-color,
+  $purple
+) !default;
+$text-primary-color: var(--dse-text-primary-color, $white) !default;
+$icon-primary-color: var(--dse-icon-primary-color, $white) !default;
+
+$background-secondary-color: var(
+  --dse-background-secondary-color,
+  $white
+) !default;
+$text-secondary-color: var(--dse-text-secondary-color, $black) !default;
+$icon-secondary-color: var(--dse-icon-secondary-color, $black) !default;

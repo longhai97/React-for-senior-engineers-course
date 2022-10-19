@@ -1,0 +1,40 @@
+/* Color */
+$purple: #6202ee;
+$white: #fefefe;
+
+$gray: #0000008a;
+$black: #000000de;
+
+$playfair: "Playfair", serif;
+$raleway: "Raleway", "Helveticaneue", "Helvetica", "Arial", ssans-serif;
+
+/* Heading font sizes*/
+$h-1: 1.375rem;
+$h-2: 1.375rem;
+$h-3: 1rem;
+$h-4: 1.125rem;
+$h-5: 0.75rem;
+$h-6: 0.75rem;
+
+/* Breakpoint*/
+$breakpoints: (
+  md: 48rem,
+  lg: 64rem,
+  xl: 80rem,
+);
+
+/* Font Size */
+$fs-xs: 0.75rem;
+$fs-sm: 0.875rem;
+$fs-base: 1rem;
+$fs-lg: 1.125rem;
+$fs-xl: 1.5rem;
+
+/* Font Weight */
+$fw-light: 300;
+$fw-normal: 400;
+$fw-medium: 500;
+$fw-semi-bold: 600;
+$fw-bold: 700;
+$fw-extra-bold: 800;
+$fw-black: 900;
